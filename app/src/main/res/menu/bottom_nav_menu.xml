@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="首页">
+
+    </item>
+
+    <item
+        android:id="@+id/nav_test_1"
+        android:icon="@drawable/ic_test"
+        android:title="test_1">
+
+    </item>
+
+    <item
+        android:id="@+id/nav_test_2"
+        android:icon="@drawable/ic_test"
+        android:title="test_2">
+
+    </item>
+
+    <item
+        android:id="@+id/nav_test_3"
+        android:icon="@drawable/ic_test"
+        android:title="test_1">
+
+    </item>
+
+    <item
+        android:id="@+id/nav_test_4"
+        android:icon="@drawable/ic_test"
+        android:title="test_2">
+
+    </item>
+
+</menu>
